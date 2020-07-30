@@ -1,1 +1,1 @@
-# go-e.g.
+# mastering-go
